@@ -1,0 +1,8 @@
+[
+    {"name":"sports","id":"ad"},
+    {"name":"entertenment","id":"wd"},
+   {"name": "technology","id":"ed"},
+    {"name":"videogame","id":"rd"},
+    {"name":"food","id":"td"},
+    {"name":"trending","id":"yd"}
+]
